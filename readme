@@ -1,0 +1,8 @@
+1. Facade Design Pattern 
+    Is the pattern when ever we want to provide simplified interface to client that performs many other actions behind
+
+2. Proxy Design Pattern :
+   Proxy Design pattern is class which will limit access to another class. This can be used for security reasons.
+
+3. Factory Design Pattern :: When a method returns ond of the several possible classes that share a common super class.
+  We need to get a capability to choose a class at runtime.
