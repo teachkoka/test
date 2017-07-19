@@ -1,0 +1,4 @@
+com\sample\test\HelloWorldServlet.class
+com\sample\test\SingletonDesignPattern.class
+com\sample\test\ProxyDesignPattern.class
+com\sample\test\FacadeDesignPattern.class
